@@ -7,6 +7,7 @@ Date: Fri Mar 18 00:30:14 PDT 2016
 ## Instructions
 
 * `meteor install`
+* `meteor`
 
 ## File Structure
 ```
